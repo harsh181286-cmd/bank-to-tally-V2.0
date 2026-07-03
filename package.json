@@ -1,0 +1,15 @@
+{
+  "name": "bank-to-tally",
+  "version": "1.0.0",
+  "description": "Bank PDF to Tally XML converter website with secure API backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
